@@ -1,0 +1,1 @@
+echo 'external_vim'
